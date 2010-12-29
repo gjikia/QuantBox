@@ -1,10 +1,10 @@
-QuantBox is being developed using BlackBox Component Builder, which is a component-based development environment for the programming language Component Pascal. It provides features such as objects, full type safety, components (in the form of modules), dynamic linking of components, and garbage collection.
+QuantBox is being developed using BlackBox Component Builder, http://oberon.ch/blackbox.html, which is a component-based development environment for the programming language Component Pascal. It provides features such as objects, full type safety, components (in the form of modules), dynamic linking of components, and garbage collection.
 
 To install unzip BlackBox16-rc6.zip into QuantBox directory overwriting existing files.
 
 To use start BlackBox.exe in QuantBox directory. Source *.odc files are found in Mod subdirectories of Fin, Num, Gsl and Bench subsystems. To read *.odc files open them in BlackBox. Use F1 for help.   
 
-See QB-License.odc for terms of copyright and redistribution.
+See Docu\QB-License.odc for terms of copyright and redistribution.
 
 
 
